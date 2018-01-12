@@ -1,0 +1,6 @@
+export  * from './pages/vibration/vibration'
+export  * from './pages/geolocation/geolocation'
+export  * from './pages/camera/camera'
+export  * from './pages/barcode/barcode'
+export  * from './pages/motion/motion'
+export  * from './pages/notifications/notifications'
